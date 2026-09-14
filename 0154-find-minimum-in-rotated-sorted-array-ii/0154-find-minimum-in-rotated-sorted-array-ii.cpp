@@ -15,7 +15,7 @@ public:
                 right = mid;
             }
             else {
-                right--; //or left++
+                right--;
             }
         }
         return nums[left];
