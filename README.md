@@ -21,4 +21,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/yseungji/CodingTest/tree/main/0074-search-a-2d-matrix/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0338-counting-bits](https://github.com/yseungji/CodingTest/tree/main/0338-counting-bits/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0338-counting-bits](https://github.com/yseungji/CodingTest/tree/main/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
