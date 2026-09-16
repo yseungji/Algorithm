@@ -25,8 +25,21 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/yseungji/CodingTest/tree/main/0338-counting-bits/) | Easy |
+| [0509-fibonacci-number](https://github.com/yseungji/CodingTest/tree/main/0509-fibonacci-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/yseungji/CodingTest/tree/main/0338-counting-bits/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/yseungji/CodingTest/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/yseungji/CodingTest/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/yseungji/CodingTest/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
