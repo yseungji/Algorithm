@@ -8,6 +8,7 @@
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/yseungji/CodingTest/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/yseungji/CodingTest/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0088-merge-sorted-array](https://github.com/yseungji/CodingTest/tree/main/0088-merge-sorted-array/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yseungji/CodingTest/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yseungji/CodingTest/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0704-binary-search](https://github.com/yseungji/CodingTest/tree/main/0704-binary-search/) | Easy |
@@ -51,9 +52,14 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/yseungji/CodingTest/tree/main/0088-merge-sorted-array/) | Easy |
 | [0392-is-subsequence](https://github.com/yseungji/CodingTest/tree/main/0392-is-subsequence/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/yseungji/CodingTest/tree/main/0392-is-subsequence/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/yseungji/CodingTest/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
