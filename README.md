@@ -11,6 +11,7 @@
 | [0088-merge-sorted-array](https://github.com/yseungji/CodingTest/tree/main/0088-merge-sorted-array/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yseungji/CodingTest/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yseungji/CodingTest/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0414-third-maximum-number](https://github.com/yseungji/CodingTest/tree/main/0414-third-maximum-number/) | Easy |
 | [0704-binary-search](https://github.com/yseungji/CodingTest/tree/main/0704-binary-search/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -62,4 +63,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/yseungji/CodingTest/tree/main/0088-merge-sorted-array/) | Easy |
+| [0414-third-maximum-number](https://github.com/yseungji/CodingTest/tree/main/0414-third-maximum-number/) | Easy |
 <!---LeetCode Topics End-->
