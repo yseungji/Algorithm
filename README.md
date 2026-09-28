@@ -6,6 +6,7 @@
 | [0035-search-insert-position](https://github.com/yseungji/CodingTest/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/yseungji/CodingTest/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/yseungji/CodingTest/tree/main/0088-merge-sorted-array/) | Easy |
+| [0118-pascals-triangle](https://github.com/yseungji/CodingTest/tree/main/0118-pascals-triangle/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yseungji/CodingTest/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yseungji/CodingTest/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0414-third-maximum-number](https://github.com/yseungji/CodingTest/tree/main/0414-third-maximum-number/) | Easy |
@@ -25,6 +26,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0118-pascals-triangle](https://github.com/yseungji/CodingTest/tree/main/0118-pascals-triangle/) | Easy |
 | [0338-counting-bits](https://github.com/yseungji/CodingTest/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/yseungji/CodingTest/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/yseungji/CodingTest/tree/main/0509-fibonacci-number/) | Easy |
