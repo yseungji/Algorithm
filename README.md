@@ -19,6 +19,7 @@
 | [0074-search-a-2d-matrix](https://github.com/yseungji/CodingTest/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yseungji/CodingTest/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yseungji/CodingTest/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0367-valid-perfect-square](https://github.com/yseungji/CodingTest/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/yseungji/CodingTest/tree/main/0704-binary-search/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -42,6 +43,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/yseungji/CodingTest/tree/main/0062-unique-paths/) | Medium |
+| [0367-valid-perfect-square](https://github.com/yseungji/CodingTest/tree/main/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/yseungji/CodingTest/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/yseungji/CodingTest/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Recursion
