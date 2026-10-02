@@ -2,7 +2,8 @@
 class Solution {
 public:
     int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) {
-        vector<vector<int>> D(n);
+        //배열에 가중치 저장.
+vector<vector<int>> D(n);
 for (int i = 0; i < n; i++) {
     D[i].resize(n); //최단거리 2차원 배열
     for (int j = 0; j < n; j++) {
@@ -23,13 +24,6 @@ for (int k = 0; k < n; k++) {
         }
     }
 }
-//출력
-for (int i = 0; i < n; i++) {
-    for (int j = 0; j < n; j++) {
-        cout << D[i][j] << ' ';
-    }
-    //cout << '\n';
-}
 
 int val = MAX;
 int ans;
@@ -42,14 +36,11 @@ for (int i = 0; i < n; i++) {
             cnt++;
         }
     }
-    //cout << cnt << ' ';
-    //cout << "val: " << val << ' ';
     if (val >= cnt) {
         val = cnt;
         ans = i;
     }
 }
-//cout << ans << ' ';
 return ans;
     }
 };
