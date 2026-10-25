@@ -11,6 +11,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yseungji/CodingTest/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yseungji/CodingTest/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0414-third-maximum-number](https://github.com/yseungji/CodingTest/tree/main/0414-third-maximum-number/) | Easy |
+| [0561-array-partition](https://github.com/yseungji/CodingTest/tree/main/0561-array-partition/) | Easy |
 | [0704-binary-search](https://github.com/yseungji/CodingTest/tree/main/0704-binary-search/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -72,6 +73,7 @@
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/yseungji/CodingTest/tree/main/0088-merge-sorted-array/) | Easy |
 | [0414-third-maximum-number](https://github.com/yseungji/CodingTest/tree/main/0414-third-maximum-number/) | Easy |
+| [0561-array-partition](https://github.com/yseungji/CodingTest/tree/main/0561-array-partition/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,4 +102,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/yseungji/CodingTest/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/yseungji/CodingTest/tree/main/0561-array-partition/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/yseungji/CodingTest/tree/main/0561-array-partition/) | Easy |
 <!---LeetCode Topics End-->
