@@ -21,7 +21,8 @@ public:
                 right--;
             }
             else { //다른 경우, 왼쪽 제거 or 오른쪽 제거
-                if (isPalindrome(left, right - 1,s) || isPalindrome(left + 1, right,s)) {
+                if (isPalindrome(left, right - 1,s) 
+                || isPalindrome(left + 1, right,s)) {
                     return true;
                 }
                 else return false;
