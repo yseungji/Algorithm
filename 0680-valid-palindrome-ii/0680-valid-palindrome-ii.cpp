@@ -1,15 +1,16 @@
 class Solution {
 public:
-bool isPalindrome(int left, int right, string s) {
-    while (left <= right) {
-        if (s[left] == s[right]) {
-            left++;
-            right--;
+    bool isPalindrome(int left, int right, string &s) {
+        while (left <= right) {
+            if (s[left] == s[right]) {
+                left++;
+                right--;
+            }
+            else return false;
         }
-        else return false;
+        return true;
     }
-    return true;
-}
+
     bool validPalindrome(string s) {
         int left = 0;
         int right = s.size() - 1;
