@@ -9,10 +9,8 @@ public:
             int value = g[i];
             auto iter = lower_bound(s.begin(), s.end(), value);
             if (iter == s.end()) {
-                //cout << "a";
             }
             else {
-                //cout << "b";
                 s.erase(iter);
                 ans++;
             }
