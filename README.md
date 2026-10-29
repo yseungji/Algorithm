@@ -15,6 +15,7 @@
 | [0455-assign-cookies](https://github.com/yseungji/CodingTest/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/yseungji/CodingTest/tree/main/0561-array-partition/) | Easy |
 | [0704-binary-search](https://github.com/yseungji/CodingTest/tree/main/0704-binary-search/) | Easy |
+| [0860-lemonade-change](https://github.com/yseungji/CodingTest/tree/main/0860-lemonade-change/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/yseungji/CodingTest/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -121,6 +122,7 @@
 | [0455-assign-cookies](https://github.com/yseungji/CodingTest/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/yseungji/CodingTest/tree/main/0561-array-partition/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/yseungji/CodingTest/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0860-lemonade-change](https://github.com/yseungji/CodingTest/tree/main/0860-lemonade-change/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/yseungji/CodingTest/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
