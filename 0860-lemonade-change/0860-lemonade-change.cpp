@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool lemonadeChange(vector<int>& bills) {
-        int change[3] = { 0, };
+        int change[2] = { 0, };
 for (int i = 0; i < bills.size(); i++) {
     if (bills[i] == 5) change[0]++;
     else if (bills[i] == 10) {
@@ -16,10 +16,9 @@ else {
     change[0]--;
     change[1]--;
 }
-change[2]++;
     }
 
-    for(int j=0;j<3;j++)
+    for(int j=0;j<2;j++)
     if (change[j] < 0) {
         return false;
     }
