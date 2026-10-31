@@ -79,6 +79,7 @@
 | [0392-is-subsequence](https://github.com/yseungji/CodingTest/tree/main/0392-is-subsequence/) | Easy |
 | [0409-longest-palindrome](https://github.com/yseungji/CodingTest/tree/main/0409-longest-palindrome/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/yseungji/CodingTest/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/yseungji/CodingTest/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +128,7 @@
 | [0860-lemonade-change](https://github.com/yseungji/CodingTest/tree/main/0860-lemonade-change/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/yseungji/CodingTest/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/yseungji/CodingTest/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/yseungji/CodingTest/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
