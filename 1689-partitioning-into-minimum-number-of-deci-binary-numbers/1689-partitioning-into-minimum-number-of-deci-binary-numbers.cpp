@@ -1,11 +1,10 @@
 class Solution {
 public:
     int minPartitions(string n) {
-        int big=0;
         for(int i=0;i<n.size();i++){
-            big = max(big, n[i]-48);
+            if(n[i] > n[0]) n[0] = n[i];
         }
 
-        return big;
+        return n[0]-48;
     }
 };
