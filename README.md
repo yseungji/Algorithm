@@ -18,6 +18,7 @@
 | [0860-lemonade-change](https://github.com/yseungji/CodingTest/tree/main/0860-lemonade-change/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/yseungji/CodingTest/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/yseungji/CodingTest/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/yseungji/CodingTest/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +57,7 @@
 | [0509-fibonacci-number](https://github.com/yseungji/CodingTest/tree/main/0509-fibonacci-number/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/yseungji/CodingTest/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/yseungji/CodingTest/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/yseungji/CodingTest/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +91,7 @@
 | [0561-array-partition](https://github.com/yseungji/CodingTest/tree/main/0561-array-partition/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/yseungji/CodingTest/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/yseungji/CodingTest/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/yseungji/CodingTest/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,6 +131,7 @@
 | [0860-lemonade-change](https://github.com/yseungji/CodingTest/tree/main/0860-lemonade-change/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/yseungji/CodingTest/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/yseungji/CodingTest/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/yseungji/CodingTest/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/yseungji/CodingTest/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -146,4 +150,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/yseungji/CodingTest/tree/main/0976-largest-perimeter-triangle/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/yseungji/CodingTest/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 <!---LeetCode Topics End-->
