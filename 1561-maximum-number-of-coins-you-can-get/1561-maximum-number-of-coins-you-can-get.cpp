@@ -5,14 +5,14 @@ public:
 
         int i = 0;
         int j = piles.size() - 1;
-        int sum = 0;
         //투포인터
+        piles[0] = 0;
         while (i < j) {
-            sum += piles[j-1];
+            piles[0] += piles[j - 1];
             j -= 2;
             i += 1;
         }
 
-        return sum;
+        return piles[0];
     }
 };
