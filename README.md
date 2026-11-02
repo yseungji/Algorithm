@@ -19,6 +19,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/yseungji/CodingTest/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/yseungji/CodingTest/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/yseungji/CodingTest/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/yseungji/CodingTest/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +76,7 @@
 | [0392-is-subsequence](https://github.com/yseungji/CodingTest/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/yseungji/CodingTest/tree/main/0455-assign-cookies/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/yseungji/CodingTest/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/yseungji/CodingTest/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +94,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/yseungji/CodingTest/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/yseungji/CodingTest/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/yseungji/CodingTest/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/yseungji/CodingTest/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +136,7 @@
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/yseungji/CodingTest/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/yseungji/CodingTest/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/yseungji/CodingTest/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/yseungji/CodingTest/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
